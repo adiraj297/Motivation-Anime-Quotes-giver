@@ -41,10 +41,11 @@ body{
 
 }
 
-.mybtn{
+.btn{
+    border: 5px solid black;
     margin-top: 1%;
     margin-bottom: 4%;
-    margin-left: 550px;
+    margin-left: 530px;
     letter-spacing: 5px;
     text-transform: capitalize;
     text-align: center;
