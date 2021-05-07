@@ -1,5 +1,5 @@
 body{
-    background-image: url('rain.gif');
+    background-image: url('../IMG/rain.gif');
     height: 110%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -41,10 +41,11 @@ body{
 
 }
 
-.mybtn{
+.btn{
+    border: 5px solid black;
     margin-top: 1%;
     margin-bottom: 4%;
-    margin-left: 550px;
+    margin-left: 530px;
     letter-spacing: 5px;
     text-transform: capitalize;
     text-align: center;
