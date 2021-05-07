@@ -1,0 +1,51 @@
+body{
+    background-image: url('rain.gif');
+    height: 110%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* position: relative; */
+}
+
+.footer {
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 40px;
+    font-family: 'Open Sans', sans-serif;
+    letter-spacing: 5px;
+    text-transform: capitalize;
+}
+.quote{
+    font-weight: bold;
+    padding: 40px;
+    letter-spacing: 5px;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+.smallText{
+    font-weight: bold;
+    letter-spacing: 5px;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+.jumbotron{
+    margin-top: 5%;
+    background-color: white;
+    border: 5px solid black;
+
+}
+
+.mybtn{
+    margin-top: 1%;
+    margin-bottom: 4%;
+    margin-left: 550px;
+    letter-spacing: 5px;
+    text-transform: capitalize;
+    text-align: center;
+}
